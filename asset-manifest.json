@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.01aefa7b.css",
-    "main.js": "/static/js/main.f8715bd6.js",
+    "main.css": "/static/css/main.d2219fc6.css",
+    "main.js": "/static/js/main.b6dcc065.js",
     "static/media/Aditi_Sharma_Resume.pdf": "/static/media/Aditi_Sharma_Resume.312c348bcd304214a169.pdf",
     "index.html": "/index.html",
-    "main.01aefa7b.css.map": "/static/css/main.01aefa7b.css.map",
-    "main.f8715bd6.js.map": "/static/js/main.f8715bd6.js.map"
+    "main.d2219fc6.css.map": "/static/css/main.d2219fc6.css.map",
+    "main.b6dcc065.js.map": "/static/js/main.b6dcc065.js.map"
   },
   "entrypoints": [
-    "static/css/main.01aefa7b.css",
-    "static/js/main.f8715bd6.js"
+    "static/css/main.d2219fc6.css",
+    "static/js/main.b6dcc065.js"
   ]
 }
